@@ -1,0 +1,38 @@
+[
+    {
+        "id": null,
+        "createdAt": "2023-04-01T14:18:06.710841Z",
+        "updatedAt": "2023-04-01T14:18:06.710842Z",
+        "deleted": false,
+        "version": 0,
+        "title": "The Line of Beauty",
+        "description": "Power is a curious thing. Who lives, Who dies. Power resides where men believe it resides. It is a trick, A shadow on the wall.",
+        "type": "VIDEO",
+        "url": "www.lizabeth-abbott.net",
+        "status": "IDEA"
+    },
+    {
+        "id": null,
+        "createdAt": "2023-04-01T14:18:06.711008Z",
+        "updatedAt": "2023-04-01T14:18:06.711008Z",
+        "deleted": false,
+        "version": 0,
+        "title": "This Lime Tree Bower",
+        "description": "Why is it that when one man builds a wall, the next man immediately needs to know what's on the other side?",
+        "type": "CONFERENCE_TALK",
+        "url": "www.murray-beahan.net",
+        "status": "PUBLISHED"
+    },
+    {
+        "id": null,
+        "createdAt": "2023-04-01T14:18:06.711125Z",
+        "updatedAt": "2023-04-01T14:18:06.711125Z",
+        "deleted": false,
+        "version": 0,
+        "title": "The Mermaids Singing",
+        "description": "And so he spoke, and so he spoke, that Lord of Castamere, but now the rains weep o'er his hall, with no one there to hear. Yes, now the rains weep o'er his hall, and not a soul to hear.",
+        "type": "VIDEO",
+        "url": "www.kathlene-dooley.org",
+        "status": "COMPLETED"
+    }
+]
